@@ -19,8 +19,8 @@ DESCRIPTOR = _descriptor.FileDescriptor(
   name='greet.proto',
   package='demo',
   syntax='proto3',
-  serialized_options=_b('\n\017com.proto.greetP\001'),
-  serialized_pb=_b('\n\x0bgreet.proto\x12\x04\x64\x65mo\"/\n\x08Greeting\x12\x11\n\tfirstName\x18\x01 \x01(\t\x12\x10\n\x08lastName\x18\x02 \x01(\t\"0\n\x0cGreetRequest\x12 \n\x08greeting\x18\x01 \x01(\x0b\x32\x0e.demo.Greeting\"!\n\rGreetResponse\x12\x10\n\x08response\x18\x01 \x01(\t2B\n\x0cGreetService\x12\x32\n\x05Greet\x12\x12.demo.GreetRequest\x1a\x13.demo.GreetResponse\"\x00\x42\x13\n\x0f\x63om.proto.greetP\x01\x62\x06proto3')
+  serialized_options=None,
+  serialized_pb=_b('\n\x0bgreet.proto\x12\x04\x64\x65mo\"/\n\x08Greeting\x12\x11\n\tfirstName\x18\x01 \x01(\t\x12\x10\n\x08lastName\x18\x02 \x01(\t\"0\n\x0cGreetRequest\x12 \n\x08greeting\x18\x01 \x01(\x0b\x32\x0e.demo.Greeting\"\x1f\n\rGreetResponse\x12\x0e\n\x06result\x18\x01 \x01(\t2B\n\x0cGreetService\x12\x32\n\x05Greet\x12\x12.demo.GreetRequest\x1a\x13.demo.GreetResponse\"\x00\x62\x06proto3')
 )
 
 
@@ -103,7 +103,7 @@ _GREETRESPONSE = _descriptor.Descriptor(
   containing_type=None,
   fields=[
     _descriptor.FieldDescriptor(
-      name='response', full_name='demo.GreetResponse.response', index=0,
+      name='result', full_name='demo.GreetResponse.result', index=0,
       number=1, type=9, cpp_type=9, label=1,
       has_default_value=False, default_value=_b("").decode('utf-8'),
       message_type=None, enum_type=None, containing_type=None,
@@ -122,7 +122,7 @@ _GREETRESPONSE = _descriptor.Descriptor(
   oneofs=[
   ],
   serialized_start=120,
-  serialized_end=153,
+  serialized_end=151,
 )
 
 _GREETREQUEST.fields_by_name['greeting'].message_type = _GREETING
@@ -153,7 +153,6 @@ GreetResponse = _reflection.GeneratedProtocolMessageType('GreetResponse', (_mess
 _sym_db.RegisterMessage(GreetResponse)
 
 
-DESCRIPTOR._options = None
 
 _GREETSERVICE = _descriptor.ServiceDescriptor(
   name='GreetService',
@@ -161,8 +160,8 @@ _GREETSERVICE = _descriptor.ServiceDescriptor(
   file=DESCRIPTOR,
   index=0,
   serialized_options=None,
-  serialized_start=155,
-  serialized_end=221,
+  serialized_start=153,
+  serialized_end=219,
   methods=[
   _descriptor.MethodDescriptor(
     name='Greet',

@@ -8,7 +8,7 @@ class Greeter(greet_pb2_grpc.GreetServiceServicer):
 
     def Greet(self, request, context):
         greeting = request.greeting
-        return greet_pb2.GreetResponse(response=f'Hello {greeting.firstName} {greeting.lastName} from python')
+        return greet_pb2.GreetResponse(result=f'Hello {greeting.firstName} {greeting.lastName} from python')
 
 
 def serve():
