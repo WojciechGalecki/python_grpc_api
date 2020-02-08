@@ -1,58 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9847a503-6f9f-4ade-bdb2-6801ab853f6e" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9847a503-6f9f-4ade-bdb2-6801ab853f6e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/wojciechga.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/generate_proto.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/movie.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/movie_client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/movie_rest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/movie/movie_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instructions.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greeting/greet.proto">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greeting/generate_proto.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="85" selection-start-line="1" selection-start-column="85" selection-end-line="1" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/greeting/greet_server.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/greeting/greet_client.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,39 +26,18 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/grpc" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/instructions.txt" />
-        <option value="$PROJECT_DIR$/greet_service.py" />
-        <option value="$PROJECT_DIR$/greet.proto" />
-        <option value="$PROJECT_DIR$/generate_proto.sh" />
-        <option value="$PROJECT_DIR$/greet_client.py" />
-        <option value="$PROJECT_DIR$/greet_server.py" />
-        <option value="$PROJECT_DIR$/greeting/greet_server.py" />
-        <option value="$PROJECT_DIR$/greeting/greet.proto" />
-        <option value="$PROJECT_DIR$/greeting/greet_client.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="630" />
-    <option name="height" value="813" />
-  </component>
+  <component name="ProjectId" id="1WI3VqEpm91ERUbKuvmI9UO5vVp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="editor.config.ad.shown" value="true" />
   </component>
   <component name="RecentsManager">
@@ -102,20 +45,8 @@
       <recent name="$PROJECT_DIR$/greeting" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.greet_server">
-    <configuration name="greet_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.movie_rest">
+    <configuration name="benchmark_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="grpc" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +54,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/movie" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/greeting/greet_client.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie/benchmark_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,12 +88,90 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="movie_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="grpc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/movie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie/movie_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="movie_rest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="grpc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/movie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie/movie_rest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="movie_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="grpc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/movie" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/movie/movie_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.movie_rest" />
+        <item itemvalue="Python.movie_server" />
+        <item itemvalue="Python.benchmark_test" />
+        <item itemvalue="Python.movie_client" />
         <item itemvalue="Python.greet_server" />
-        <item itemvalue="Python.greet_client" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -177,108 +186,69 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19309373" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5686747" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Pylint" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grpc/examples/python/helloworld/README.md" />
-    <entry file="file://$PROJECT_DIR$/grpc/.pylintrc-tests" />
-    <entry file="file://$PROJECT_DIR$/grpc/examples/python/route_guide/route_guide_client.py" />
-    <entry file="file://$PROJECT_DIR$/grpc/examples/python/helloworld/greeter_client.py" />
-    <entry file="file://$PROJECT_DIR$/grpc/examples/protos/helloworld.proto" />
-    <entry file="file://$PROJECT_DIR$/generated/greet_pb2.py" />
-    <entry file="file://$PROJECT_DIR$/greet_service.py" />
-    <entry file="file://$PROJECT_DIR$/generated/greet_pb2_grpc.py" />
-    <entry file="file://$PROJECT_DIR$/generated/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.7/site-packages/google/protobuf/message.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/logging/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="1831" column="4" selection-start-line="1831" selection-start-column="4" selection-end-line="1831" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greeting/greet_pb2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1085">
-          <caret line="147" selection-start-line="147" selection-end-line="147" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greeting/greet_pb2_grpc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/instructions.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greeting/greet.proto">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greeting/generate_proto.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="85" selection-start-line="1" selection-start-column="85" selection-end-line="1" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greeting/greet_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greeting/greet_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="-2107" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1578829013915">
+      <screen x="-2560" y="-157" width="2560" height="1057" />
+    </state>
+    <state x="-2107" y="94" key="#com.intellij.ide.util.MemberChooser/0.23.1440.813/-2560.-157.2560.1057@-2560.-157.2560.1057" timestamp="1578829013915" />
+    <state width="1419" height="443" key="GridCell.Tab.0.bottom" timestamp="1581166846615">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="443" key="GridCell.Tab.0.bottom/0.0.1440.900/-1179.-1080.1920.1080/741.-1080.1920.1080@0.0.1440.900" timestamp="1580911875191" />
+    <state width="1419" height="443" key="GridCell.Tab.0.bottom/0.0.1440.900/-2560.-180.2560.1080@0.0.1440.900" timestamp="1581010401629" />
+    <state width="1419" height="443" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581166846615" />
+    <state width="1260" height="357" key="GridCell.Tab.0.bottom/0.23.1440.813/-2560.-157.2560.1057@-2560.-157.2560.1057" timestamp="1578830058478" />
+    <state width="1419" height="443" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1581113870526" />
+    <state width="1419" height="443" key="GridCell.Tab.0.center" timestamp="1581166846614">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="443" key="GridCell.Tab.0.center/0.0.1440.900/-1179.-1080.1920.1080/741.-1080.1920.1080@0.0.1440.900" timestamp="1580911875190" />
+    <state width="1419" height="443" key="GridCell.Tab.0.center/0.0.1440.900/-2560.-180.2560.1080@0.0.1440.900" timestamp="1581010401627" />
+    <state width="1419" height="443" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581166846614" />
+    <state width="1260" height="357" key="GridCell.Tab.0.center/0.23.1440.813/-2560.-157.2560.1057@-2560.-157.2560.1057" timestamp="1578830058478" />
+    <state width="1419" height="443" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1581113870526" />
+    <state width="1419" height="443" key="GridCell.Tab.0.left" timestamp="1581166846613">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="443" key="GridCell.Tab.0.left/0.0.1440.900/-1179.-1080.1920.1080/741.-1080.1920.1080@0.0.1440.900" timestamp="1580911875189" />
+    <state width="1419" height="443" key="GridCell.Tab.0.left/0.0.1440.900/-2560.-180.2560.1080@0.0.1440.900" timestamp="1581010401626" />
+    <state width="1419" height="443" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581166846613" />
+    <state width="1260" height="357" key="GridCell.Tab.0.left/0.23.1440.813/-2560.-157.2560.1057@-2560.-157.2560.1057" timestamp="1578830058477" />
+    <state width="1419" height="443" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1581113870525" />
+    <state width="1419" height="443" key="GridCell.Tab.0.right" timestamp="1581166846614">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="443" key="GridCell.Tab.0.right/0.0.1440.900/-1179.-1080.1920.1080/741.-1080.1920.1080@0.0.1440.900" timestamp="1580911875190" />
+    <state width="1419" height="443" key="GridCell.Tab.0.right/0.0.1440.900/-2560.-180.2560.1080@0.0.1440.900" timestamp="1581010401628" />
+    <state width="1419" height="443" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581166846614" />
+    <state width="1260" height="357" key="GridCell.Tab.0.right/0.23.1440.813/-2560.-157.2560.1057@-2560.-157.2560.1057" timestamp="1578830058478" />
+    <state width="1419" height="443" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1581113870526" />
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom" timestamp="1580911875183">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/-1179.-1080.1920.1080/741.-1080.1920.1080@0.0.1440.900" timestamp="1580911875183" />
+    <state width="1260" height="357" key="GridCell.Tab.1.bottom/0.23.1440.813/-2560.-157.2560.1057@-2560.-157.2560.1057" timestamp="1578830058480" />
+    <state width="1419" height="303" key="GridCell.Tab.1.center" timestamp="1580911875182">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.center/0.0.1440.900/-1179.-1080.1920.1080/741.-1080.1920.1080@0.0.1440.900" timestamp="1580911875182" />
+    <state width="1260" height="357" key="GridCell.Tab.1.center/0.23.1440.813/-2560.-157.2560.1057@-2560.-157.2560.1057" timestamp="1578830058479" />
+    <state width="1419" height="303" key="GridCell.Tab.1.left" timestamp="1580911875181">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.left/0.0.1440.900/-1179.-1080.1920.1080/741.-1080.1920.1080@0.0.1440.900" timestamp="1580911875181" />
+    <state width="1260" height="357" key="GridCell.Tab.1.left/0.23.1440.813/-2560.-157.2560.1057@-2560.-157.2560.1057" timestamp="1578830058479" />
+    <state width="1419" height="303" key="GridCell.Tab.1.right" timestamp="1580911875182">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="303" key="GridCell.Tab.1.right/0.0.1440.900/-1179.-1080.1920.1080/741.-1080.1920.1080@0.0.1440.900" timestamp="1580911875182" />
+    <state width="1260" height="357" key="GridCell.Tab.1.right/0.23.1440.813/-2560.-157.2560.1057@-2560.-157.2560.1057" timestamp="1578830058479" />
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1581174968365">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-1179.-1080.1920.1080/741.-1080.1920.1080@0.0.1440.900" timestamp="1580906135971" />
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-2560.-180.2560.1080@0.0.1440.900" timestamp="1581009479872" />
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581174968365" />
+    <state x="399" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.813/-2560.-157.2560.1057@0.23.1440.813" timestamp="1578823313667" />
   </component>
 </project>
